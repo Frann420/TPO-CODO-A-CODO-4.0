@@ -294,7 +294,7 @@
         /* *********************/
         
         .contenedor-skills {
-            background: linear-gradient( #64c49f, rgba(33, 16, 16, 0.8)), url("//img/fondo-skills.jpg");
+            background: linear-gradient( #64c49f, rgba(33, 16, 16, 0.8)), url("../img/fondo-skills.jpg");
             background-attachment: fixed;
             background-repeat: no-repeat;
             background-size: cover;
